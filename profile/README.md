@@ -7,7 +7,7 @@
 Website • Landing Page • Hosting • Server • Android App • Game Server
 
 [![Website](https://img.shields.io/badge/Website-rakitweb.site-black?style=for-the-badge)](https://rakitweb.site)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285187153883)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283160325595)
 [![Instagram](https://img.shields.io/badge/Instagram-@rakitweb__id-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rakitweb_id)
 
 </div>
