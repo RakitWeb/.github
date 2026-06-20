@@ -48,7 +48,7 @@ RakitWeb adalah layanan digital Indonesia yang fokus membantu bisnis berkembang 
 ## 📍 Contact
 
 ```bash
-HQ        : Semarang, Indonesia
+HQ        : Bandung, Indonesia
 Timezone  : GMT+7
 Email     : halo@rakitweb.dev
 WhatsApp  : +62 851-8715-3883
